@@ -25,7 +25,7 @@ end
 
 
 def using_concat(array_1, array_2)
-  array_2 = array_1.concat(["mario kart", "flatiron school"])
+  array_2 = array_1.concat(["mario kart", "flatiro"])
 end
 
 def using_insert(array, new_elemrnt)
